@@ -5,14 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "install": "npm install --legacy-peer-deps",
     "build": "vite build",
-    "preview": "vite preview",
-     "start": "vite"
+    "preview": "vite preview"
   },
-  "engines":{
-    "node": "18.x"
-  },
+ 
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.56.24",
