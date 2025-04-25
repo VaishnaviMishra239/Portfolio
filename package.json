@@ -3,17 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-<<<<<<< HEAD
-    "preview": "vite preview",
-    "start": "vite"
-=======
-    "preview": "vite preview"
->>>>>>> 9e3820aecc9ebd5b038d1ed63791ff6130726447
-  },
- 
+   "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "start": "vite",
+}
+,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@react-three/drei": "^9.56.24",
